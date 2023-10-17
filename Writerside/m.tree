@@ -10,6 +10,7 @@ start-page="gateways.md">
     <toc-element topic="ecosystem.md">
         <toc-element topic="problem.md"/>
         <toc-element topic="mission.md"/>
+        <toc-element topic="marketplace.md"/>
         <toc-element topic="community.md"/>
     </toc-element>
 
@@ -21,6 +22,16 @@ start-page="gateways.md">
         <toc-element topic="smartcontracts.md"/>
         <toc-element topic="gateways.md"/>
     </toc-element>
+
+    <toc-element topic="tehnologies.md">
+        <toc-element topic="converged.md"/>
+
+        <toc-element topic="matrix.md">
+            <toc-element topic="power.md"/>
+        </toc-element>
+    </toc-element>
+
+
 
 
 </instance-profile>
