@@ -3,35 +3,61 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="m"
-                 name="version"
+                  name="version"
+                  start-page="main.md">
 
-start-page="gateways.md">
+    <toc-element topic="main.md">
 
-    <toc-element topic="ecosystem.md">
-        <toc-element topic="problem.md"/>
-        <toc-element topic="mission.md"/>
-        <toc-element topic="marketplace.md"/>
-        <toc-element topic="community.md"/>
-    </toc-element>
+        <toc-element topic="ecosystem.md">
+            <toc-element topic="problem.md"/>
+            <toc-element topic="mission.md"/>
+            <toc-element topic="marketplace.md"/>
+            <toc-element topic="community.md"/>
+        </toc-element>
 
-    <toc-element topic="finance.md">
-        <toc-element topic="microfunds.md"/>
-        <toc-element topic="token.md"/>
-        <toc-element topic="exchange.md"/>
-        <toc-element topic="market-makers.md"/>
-        <toc-element topic="smartcontracts.md"/>
-        <toc-element topic="gateways.md"/>
-    </toc-element>
+        <toc-element topic="finance.md">
+            <toc-element topic="microfunds.md"/>
+            <toc-element topic="token.md"/>
+            <toc-element topic="exchange.md"/>
+            <toc-element topic="market-makers.md"/>
+            <toc-element topic="smartcontracts.md"/>
+            <toc-element topic="gateways.md"/>
+        </toc-element>
 
-    <toc-element topic="tehnologies.md">
-        <toc-element topic="converged.md"/>
+        <toc-element topic="tehnologies.md">
+            <toc-element topic="combinatorics.md">
+                <toc-element topic="conception.md"/>
+                <toc-element topic="difference-combinatorics.md"/>
+            </toc-element>
+            <toc-element topic="converged.md">
+                <toc-element topic="philosophy.md"/>
+                <toc-element topic="difference.md"/>
+            </toc-element>
 
-        <toc-element topic="matrix.md">
-            <toc-element topic="power.md"/>
+            <toc-element topic="matrix.md">
+                <toc-element topic="power.md">
+                    <toc-element topic="low-voltage.md"/>
+                    <toc-element topic="high-voltage.md"/>
+                </toc-element>
+                <toc-element topic="protocols.md">
+                    <toc-element topic="wireless.md"/>
+                    <toc-element topic="hyperstreams.md"/>
+                </toc-element>
+                <toc-element topic="connectors.md">
+                    <toc-element topic="data-connectors.md"/>
+                    <toc-element topic="power-connectors.md"/>
+                    <toc-element topic="board-to-board-connectors.md"/>
+                </toc-element>
+                <toc-element topic="interfaces.md">
+                    <toc-element topic="uimatrix.md"/>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+
+        <toc-element topic="tools.md">
+
         </toc-element>
     </toc-element>
-
-
 
 
 </instance-profile>

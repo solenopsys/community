@@ -1,5 +1,8 @@
 # Converged Framework
 
+Converged is an industrial framework designed for creating digital factories capable of managing thousands of devices. It enables simultaneous processing of business data, such as orders and payments, and the control of production systems. This is achieved through a cluster-based distributed data processing system.
+
+
 ## Architecture
 
 Converged is a framework for creating applications, similar to Android. Any network participant can create and publish their own application.
