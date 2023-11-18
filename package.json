@@ -3,14 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "tsx src/main.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "showdown": "^2.1.0"
+    "@types/mdast": "^4.0.3",
+    "asc": "^2.0.3",
+    "axios": "^1.6.1",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "showdown": "^2.1.0",
+    "unified": "^11.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
   }
 }

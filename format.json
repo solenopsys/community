@@ -1,0 +1,407 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "Microfunds"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "Microfunds - this is a new concept of financing technological projects. It involves breaking the project into separate micropojects, each of which creates a small, self-contained product with its own intellectual property. This approach is based on the use of smart contracts and open-source code."
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "How does it work?"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "Let's assume you have an idea to create a new type of 3D printer based on your own technology. Here's how this process looks:"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The project is broken down into individual components: motors, drivers, controllers, and various software modules."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Components that already exist based on the Combinatorics and Converged frameworks are identified. There's no need to develop them from scratch; you can simply purchase them or order manufacturing under license."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Those components that need to have unique characteristics are allocated to microfunds and brought to Matrix standards to easily integrate them into other projects."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Microfunds receive funding and commence development."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "You create your project using the ready-made components from microfunds."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "list"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "This approach reduces risks, cuts down development time, and lowers costs because it leverages pre-existing components and standardized solutions."
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "Advantages of Financing through Microfunds:"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Substantial reduction in the risk of capital loss."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Preservation of value and control in the event of the parent project's bankruptcy."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Minimal expenses when replacing the team."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Justified assessment of value due to the use of open-source code."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Simplification of the parent project's bankruptcy process."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "list"
+    },
+    {
+      "children": [
+        {
+          "type": "text",
+          "value": "Differences in Funding Startups through Microfunds and Traditional Corporations."
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Traditional Corporations"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Microfunds"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "A corporation is an organization founded on groups of people. This group is structured through the internal framework of the corporation, which encompasses various resources, such as information systems and equipment."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Microfunds are based on intellectual property presented in the form of open-source code."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Typically, the financing of a corporation occurs through investments in commercial activities, requiring substantial amounts of money right from the start."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "When developing a complex project, it is divided into a structure of microfunds, and funding is directed straight to the microfunds, bypassing the organization. Each microfund requires small investments."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The financing occurs in stages, and there is a high risk of project failure if the corporation cannot attract the next round of investments."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Each microfund receives 100% of the required capital at the time of the transaction, ensured by a smart contract that executes when 100% funding is reached."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Financial resources are invested in the organization's structure."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Each microfund is independent of others, with the goal of creating a product that can be used by other teams and in other projects."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "In the event of project bankruptcy, the team dissolves, and a significant portion of the created value is lost."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Intellectual property is standardized for ease of use by other teams. In the case of project bankruptcy, a significant portion of the investments is preserved."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Intellectual property can be created based on know-how or patents."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "A licensing agreement for the use of intellectual property is included in the source code."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Licensing of intellectual property is carried out through the conclusion of license agreements, which is a complex and time-consuming process."
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Licensing is done through smart contracts, without the need for negotiations or even knowing who the counterparty is."
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    }
+  ],
+  "type": "root"
+}
