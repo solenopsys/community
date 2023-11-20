@@ -1,5 +1,0 @@
-# Technologies
-
-- Converged
-- Combinatorics
-- Matrix
