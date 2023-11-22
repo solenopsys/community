@@ -19,6 +19,12 @@ export async function exportMdFileToIpfs(mdFile: string,ipfs:IpfsApi):Promise<{c
     const markdownContent = fs.readFileSync(mdFile, 'utf-8');
     const tree = unified().use(markdown).use(gmf).parse(markdownContent) as TreeNode;
     let firstItem = tree.children[0];
+
+
+    if(firstItem==null){
+        console.error("CORRUPTED MD",mdFile)
+    }
+
     firstItem.type = "heading";
     let title= firstItem.children[0].value ;
 
