@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "run": "tsx src/main.ts"
+    "run": "src/main.ts"
   },
   "keywords": [],
   "author": "",
