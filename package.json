@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "run": "src/main.ts"
+    "run": "src/upload/main.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,8 @@
     "@types/mdast": "^4.0.3",
     "asc": "^2.0.3",
     "axios": "^1.6.1",
+    "bun-types": "^1.0.18-1",
+    "puppeteer": "^21.6.1",
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.0",
     "remark-parse": "^11.0.0",
