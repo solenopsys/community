@@ -27,7 +27,8 @@ async function gen(filePath: string) {
     await page.setContent(injectedHtml);
 
 
-    const readableStream = await page.createPDFStream({format: 'A4'});
+    const readableStream = await page.createPDFStream({format: 'A4',    margin: { top: '2cm', right: '2cm', bottom: '2cm', left: '2cm' } // Set margins in CSS units
+    });
 
     const chunks: Buffer[] = [];
 

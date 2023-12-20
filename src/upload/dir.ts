@@ -4,13 +4,13 @@ import {TreeNode} from "./md";
 import IpfsApi from "./ipfs";
 
 
-function sortByDepth(a, b) {
+export function sortByDepth(a:string, b:string):number {
     const depthA = a.split('/').length;
     const depthB = b.split('/').length;
     return depthB - depthA || a.localeCompare(b);
 }
 
-function scanDir(dir: string): string[] {
+export function scanDir(dir: string): string[] {
     let res: string[] = [];
     let files = fs.readdirSync(dir);
     files.forEach(file => {
