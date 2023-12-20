@@ -1,25 +1,4 @@
-## MicroKernel Applications
-
-A ShockWaves application is composed of multiple separate applications (micro-kernels) that, during assembly, are
-packaged into Linux containers. The deployment of these cellular applications can occur in a single cluster or across a
-multi-cluster decentralized environment.
-
-Cellular applications are either built from existing open-source programs or developed from scratch. These programs are
-segmented, modified for data exchange via queues, and then encapsulated into containers (micro-kernels). From these
-containers, deployment configurations for cellular applications in Kubernetes clusters are created. This modular
-approach allows for flexibility and scalability in deployment.
-
-## Micro-Kernels
-
-A micro-kernel is a part of a program that contains one or several resource-intensive data processing functions. If the
-kernel includes multiple functions, they are logically unified by a single concept. This segment of the program is
-packaged into a container and can be deployed in a Kubernetes cluster.
-
-The functions within these micro-kernels are stateless between calls. Once a computational task is completed, all
-resources are freed. When a function is invoked, all the resources of the container are dedicated solely to that task.
-This design ensures efficient use of resources and optimal performance for each task.
-
-## Framework Components
+# Framework Components
 
 ![cluster-diagram.svg](..%2F..%2F..%2Fimages%2Fcluster-diagram.svg)
 

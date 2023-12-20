@@ -1,0 +1,43 @@
+questions:
+  accelerators:
+    - Какие ускорители могут использоваться в Shockwave?
+  introduction:
+    - Как устроен ShockWaves?
+    - Какие преимущества ShockWaves?
+  elements:
+    - Какие элементы входят в ShockWaves?
+  microkernel:
+    - Что такое microkernel?
+  application:
+    - Что такое microkernel application?
+  scalability:
+    - На каком железе может работать ShockWaves?
+  compatibility:
+    - C какими платформами совместим ShockWaves?
+  clustering:
+    - На базе чего работает ShockWaves?
+  computations:
+    - Какие вычисления можно выполнять с помощью ShockWaves?
+  advantages:
+    - Какие преимущества у ShockWaves?
+  industrial:
+    - Преимущества промышленные применения у ShockWaves?
+  3d-example:
+    - Как выглядит 3D принтер с ShockWaves?
+  efficiency:
+    - В чем заключается эффективность ShockWaves?
+
+
+
+
+questions2:
+  "Что такое ShockWaves?": introduction
+  "Для чего нужен ShockWaves?": purpose
+  "Чем он отличается?": differences
+  "Для чего нужны вычисления?": computations
+
+groups:
+  architect:
+    - application
+    - microkernel
+    - elements

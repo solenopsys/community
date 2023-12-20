@@ -1,4 +1,4 @@
-## Purpose of ShockWaves
+# Purpose of ShockWaves
 
 The future of engineering development lies in the synthesis of design through AI or high-performance computing.
 
