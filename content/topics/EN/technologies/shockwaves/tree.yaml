@@ -1,4 +1,4 @@
-questions:
+questions2:
   accelerators:
     - Какие ускорители могут использоваться в Shockwave?
   introduction:
@@ -27,17 +27,29 @@ questions:
   efficiency:
     - В чем заключается эффективность ShockWaves?
 
-
-
-
-questions2:
-  "Что такое ShockWaves?": introduction
-  "Для чего нужен ShockWaves?": purpose
-  "Чем он отличается?": differences
-  "Для чего нужны вычисления?": computations
+name: ShockWaves
 
 groups:
+  intro:
+    "Что такое ShockWaves?": about
+    "Для чего нужны вычисления?": computations
+    "Для чего будет использоваться фреймворк ShockWaves?": purpose
+    "Что принесет использование ShockWaves?": mission
+  difference:
+    "Как устроен ShockWaves?": architect
+    "В чем основное отличие ShockWaves?": clustering
+    "В чем отличие от Kubernetes?": kubernetes
+  advantages:
+    "Какая производительность у ShockWaves?": performance
+    "Возможно ли масштабирование?": scalability
+    "Как обеспечивается эффективность?": efficiency
+    "Как обеспечивается совместимость?": compatibility
+    "Какие ускорители могут использоваться в ShockWaves?": accelerators
   architect:
-    - application
-    - microkernel
-    - elements
+    "Что такое microkernel application?": application
+    "Что такое microkernel?": microkernel
+    "Какие элементы входят в ShockWaves?": elements
+    "Какие преимущества ShockWaves?": advantages
+
+
+

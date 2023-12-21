@@ -1,6 +1,6 @@
-# Framework Components
+### Framework Components
 
-![cluster-diagram.svg](..%2F..%2F..%2Fimages%2Fcluster-diagram.svg)
+![cluster-diagram.svg](./content/images/cluster-diagram.svg)
 
 **Microservices** - Modules designed to handle user requests on the backend. They operate as containers within a
 lightweight Kubernetes cluster. Users on the Solenopsys platform can create and publish their own microservices, which

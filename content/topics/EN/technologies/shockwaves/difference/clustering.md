@@ -1,4 +1,4 @@
-# Clustering
+### Clustering
 
 In developing ShockWaves, our focus has been on scalability and compatibility. The ShockWaves platform always operates
 in a Kubernetes cluster, even if it's running on a single computer.

@@ -1,4 +1,4 @@
-# Micro-Kernels
+### Micro-Kernels
 
 A micro-kernel is a part of a program that contains one or several resource-intensive data processing functions. If the
 kernel includes multiple functions, they are logically unified by a single concept. This segment of the program is

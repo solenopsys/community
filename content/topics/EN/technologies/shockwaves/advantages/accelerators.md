@@ -1,4 +1,7 @@
-# Types of Accelerators
+
+
+
+### Types of Accelerators
 
 MicroKernels can interact with various types of accelerators, provided the necessary drivers are available. Here are
 some examples:
