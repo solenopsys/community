@@ -33,23 +33,28 @@ groups:
   intro:
     "Что такое ShockWaves?": about
     "Для чего нужны вычисления?": computations
+    "Примеры вычислений?": examples
     "Для чего будет использоваться фреймворк ShockWaves?": purpose
     "Что принесет использование ShockWaves?": mission
   difference:
-    "Как устроен ShockWaves?": architect
-    "В чем основное отличие ShockWaves?": clustering
+    "Как устроен фреймворк?": architect
+    "В чем основное отличие?": clustering
     "В чем отличие от Kubernetes?": kubernetes
   advantages:
-    "Какая производительность у ShockWaves?": performance
+    "Какая производительность?": performance
     "Возможно ли масштабирование?": scalability
     "Как обеспечивается эффективность?": efficiency
     "Как обеспечивается совместимость?": compatibility
+    "В чем плюсы для промышленного использования?": industrial
     "Какие ускорители могут использоваться в ShockWaves?": accelerators
   architect:
     "Что такое microkernel application?": application
     "Что такое microkernel?": microkernel
     "Какие элементы входят в ShockWaves?": elements
     "Какие преимущества ShockWaves?": advantages
+  purpose:
+    "Пример использования в 3D печати?": 3d-example
+    "Примеры вычислений?": computations
 
 
 

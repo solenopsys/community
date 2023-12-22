@@ -3,7 +3,7 @@ import {marked} from "marked";
 import * as buffer from "buffer";
 
 
-async function gen(filePath: string) {
+async function gen(filePath: string,md: string) {
     const browser = await puppeteer.launch();
 
     const page = await browser.newPage();
@@ -11,7 +11,7 @@ async function gen(filePath: string) {
     const html = await Bun.file("./index.html").text()
 
     // Read Markdown content from a file
-    const markdownContent = await Bun.file("./README.md").text();
+    const markdownContent = await Bun.file( md).text();
 
 
 
@@ -48,4 +48,4 @@ async function gen(filePath: string) {
 }
 
 
-gen("Solenopsys.pdf");
+gen("ShockWaves.pdf","./ShockWaves.md");
