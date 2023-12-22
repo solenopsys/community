@@ -10,7 +10,7 @@ function loadYaml(name: string): any {
     }
 }
 
-const dir = "content/topics/EN/technologies/shockwaves"
+const dir = "content/topics/EN/technologies/converged"
 
 let yaml = loadYaml(dir + "/tree.yaml");
 let groups = yaml["groups"];
@@ -39,4 +39,5 @@ for (const group in groups) {
     }
 }
 
+console.log("OUT", name)
 await Bun.write(name + ".md", out)
