@@ -1,6 +1,13 @@
 name: Combinatorics
-
 groups:
+  conception:
+    "What is Combinatorics?": combinatorics
+    "Промышленная автоматизация": robots
+    "Какова общая концепция": conception
+    "Почему такое название": name
+  chips:
+    "Почему нужны чипы?": motivation
+    "Почему это возможно сделать?":possibility
   measurement:
     "Как сейчас проводятся измерения?": current
     "Минусы существующих решения?": problems
@@ -8,6 +15,30 @@ groups:
     "Какие преимущества у Combinatorics?": advantages
     "Что такое front модули?": fronts
   power:
-
+    "Как разделяются напряжения?": parts
+    "Какой диапазон низких напряжений?": low-voltage
+    "Какой диапазон высоких напряжений?": high-voltage
+    "Что такое grid модули?": grid
+  examples:
+    "Примеры front модулей": front-modules
+    "Примеры smart модулей": smart-modules
+    "Примеры чипов": chips
+  connectors:
+    "Why are industrial connectors so important?": importance
+    "Сколько стоят промышленные разъемы": cost
+    "Why do we need to solve the problem of industrial connectors?" :problem
+    "Why can we create the required connector?": possibility
+    "Как и с чего мы собираемся начать?": start
+    "Что мы будем использовать для передачи данных?": data
+    "Что мы будем использовать для передачи мощности?": power
+  advantages:
+    "как осуществляется управление": control
+    "в чем преимущества смарт модулей": smart
+  architect:
+    "Из каких эелементов состоит Combinatorics?": elements
+    "Что такое hub?": hub
+    "Что такое модуль module?": module
+    "Что такое смарт модуль?": smart
+    "Почему такое название?": name
 
 

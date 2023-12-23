@@ -1,4 +1,4 @@
-# Smart Modules
+### Smart Modules
 
 Smart modules are a key component of the Combinatorics architecture. Each module features an embedded microcontroller
 and two UIC connectors, allowing them to be linked in chains. One connector is used for data input, while the other

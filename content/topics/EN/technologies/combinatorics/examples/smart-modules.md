@@ -1,13 +1,11 @@
 
-
 ### Examples of Smart Modules
-
 - Motors
     - Stepper motor with integrated driver.
     - Closed-loop stepper motor with integrated driver and built-in angle sensor.
     - Closed-loop servo motor with integrated driver and built-in angle sensor.
 - Sensors
-    - End sensor with integrated microcontroller.
+    - End sensesor with integrated microcontroller.
     - Temperature sensor with integrated microcontroller.
     - Hall sensor with integrated microcontroller.
     - Angle sensor with integrated microcontroller.

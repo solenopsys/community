@@ -10,7 +10,7 @@ function loadYaml(name: string): any {
     }
 }
 
-const dir = "content/topics/EN/technologies/converged"
+const dir = "content/topics/EN/technologies/combinatorics"
 
 let yaml = loadYaml(dir + "/tree.yaml");
 let groups = yaml["groups"];

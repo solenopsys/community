@@ -1,4 +1,4 @@
-### M2E Modules
+### Modules
 
 M2E modules can include multiple connectors for connecting computational cores based on FPGA SOSC or ARM, which require
 more data exchange lines. Data processing cores connect to these connectors, and multiple data exchange interfaces can
