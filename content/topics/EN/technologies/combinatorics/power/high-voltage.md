@@ -1,7 +1,7 @@
 
-# High Voltage
+### High Voltage 
 
-### 400 Volts
+#### 400 Volts
 
 The choice of 400 volts is justified by the following factors:
 
@@ -9,7 +9,7 @@ The choice of 400 volts is justified by the following factors:
 - There are many electrolytic capacitors on the market at a reasonable price with voltages ranging from 450 to 550 volts.
 - The ability to control most powerful 3-phase motors, servo drives, and spindles without the need for transformer inverters.
 
-### 800 Volts
+#### 800 Volts
 
 Using 800 volts when supplying high-power devices such as 3-phase motors, welding equipment, electrolysis equipment, induction furnaces, and powerful microwave heaters has the following advantages:
 

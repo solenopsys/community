@@ -1,5 +1,3 @@
-# Principles
-
 ### Device Management
 
 We move away from interactive screens built into equipment and any device-specific control elements. All types of equipment are managed through the unified UI interface of Converged.
@@ -11,13 +9,5 @@ Equipment may have small standard screens solely for displaying the current conf
 - Manage hundreds of devices operating in a ShockWaves cluster by connecting to the cluster via WiFi or remotely.
 - Control multiple clusters of devices scattered around the world through the decentralized Solenopsys platform, connecting to it over the internet.
 
-### Access to the Converged Interface
-- Through a browser.
-- Via a mobile application.
-
-### Access devices
-- Computer
-- Tablet
-- Smartphone
-
+ 
 

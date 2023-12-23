@@ -1,6 +1,6 @@
-# Low Voltage
+### Low Voltage
 
-## 48 Volts
+#### 48 Volts
 
 At 48 volts, there are several important advantages:
 
@@ -8,8 +8,9 @@ At 48 volts, there are several important advantages:
 - Most connectors are rated for voltages not lower than 50 volts, which aligns with this voltage.
 - There is a wide variety of affordable voltage converters with input voltages up to 60 volts.
 
-## 12 Volts
+#### 12 Volts
+Используется для внутреннего питания в основном такое напряжение необходимо
+для управляения мосфетами.
 
-
-
-## 3.3 Volts
+#### 3.3 Volts
+Используется для питания микроконтроллеров и fpga.

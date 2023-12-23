@@ -1,4 +1,4 @@
-# Power
+### Split
 
 Power voltages are divided into 2 groups:
 

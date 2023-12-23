@@ -1,0 +1,13 @@
+name: Combinatorics
+
+groups:
+  measurement:
+    "Как сейчас проводятся измерения?": current
+    "Минусы существующих решения?": problems
+    "Какое решение предлагает Combinatorics?": future
+    "Какие преимущества у Combinatorics?": advantages
+    "Что такое front модули?": fronts
+  power:
+
+
+
