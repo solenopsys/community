@@ -1,9 +1,10 @@
 function loadYaml(name: string): any {
+    console.log("FILE", name)
     const yaml = require('js-yaml');
     const fs = require('fs');
     try {
         const doc = yaml.load(fs.readFileSync(name, 'utf8'));
-        //  console.log(doc);
+          console.log(doc);
         return doc;
     } catch (e) {
         console.log(e);
@@ -13,6 +14,7 @@ function loadYaml(name: string): any {
 const dir = "content/topics/EN/technologies/combinatorics"
 
 let yaml = loadYaml(dir + "/tree.yaml");
+console.log("YAML", yaml)
 let groups = yaml["groups"];
 let name = yaml["name"];
 

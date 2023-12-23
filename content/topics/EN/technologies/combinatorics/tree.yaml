@@ -7,7 +7,7 @@ groups:
     "Почему такое название": name
   chips:
     "Почему нужны чипы?": motivation
-    "Почему это возможно сделать?":possibility
+    "Почему это возможно сделать?": possibility
   measurement:
     "Как сейчас проводятся измерения?": current
     "Минусы существующих решения?": problems
@@ -26,7 +26,7 @@ groups:
   connectors:
     "Why are industrial connectors so important?": importance
     "Сколько стоят промышленные разъемы": cost
-    "Why do we need to solve the problem of industrial connectors?" :problem
+    "Why do we need to solve the problem of industrial connectors?": problem
     "Why can we create the required connector?": possibility
     "Как и с чего мы собираемся начать?": start
     "Что мы будем использовать для передачи данных?": data
@@ -39,6 +39,6 @@ groups:
     "Что такое hub?": hub
     "Что такое модуль module?": module
     "Что такое смарт модуль?": smart
-    "Почему такое название?": name
+
 
 
